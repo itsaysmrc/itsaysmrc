@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/35216464/README.1.md)
 <img width="100%" src="https://raw.githubusercontent.com/itsaysmrc/itsaysmrc/main/banner.svg" alt="itsaysmrc banner" />
 
 <div align="center">
